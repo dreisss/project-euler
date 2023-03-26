@@ -5,3 +5,5 @@
 My solutions to [**_Project Euler_**] to study and learn new programming languages.
 
 See the solutions here:
+
+| [**`julia`**](./julia/) |
