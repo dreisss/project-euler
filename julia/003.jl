@@ -1,17 +1,17 @@
 #!/bin/env julia
 
-function largest_factor(n)
-  factor = 2
+function method1()
+  (NUMBER, factor) = (600_851_475_143, 2)
 
-  while n > factor
-    if n % factor == 0
-      n /= factor
+  while NUMBER > factor
+    if NUMBER % factor == 0
+      NUMBER /= factor
     else
       factor += 1
     end
   end
 
-  return factor
+  println(factor)
 end
 
-println(largest_factor(600851475143))
+getfield(Main, Symbol(ARGS[1]))()
