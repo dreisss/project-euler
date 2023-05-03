@@ -6,4 +6,5 @@ My solutions to [**_Project Euler_**] to study and learn new programming languag
 
 See the solutions here:
 
-| [**`julia`**](./julia/) |
+| [**`julia`**](./julia/)
+| [**`BQN`**](./bqn/) |
