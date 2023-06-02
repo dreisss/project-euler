@@ -1,8 +1,8 @@
-[**_project euler_**]: https://projecteuler.net
+[euler]: https://projecteuler.net
 
-# [**_`Project Euler`_**][**_project euler_**]
+[<img height="50px" src=".github/assets/logo.svg" />][euler]
 
-My solutions to [**_Project Euler_**] to study and learn new programming languages.
+My solutions to [**Project Euler**][euler] to study and learn new programming languages.
 
 See the solutions here:
 
