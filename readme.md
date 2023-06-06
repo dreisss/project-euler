@@ -2,9 +2,7 @@
 
 [<img height="50px" src=".github/assets/logo.svg" />][euler]
 
-My solutions to [**Project Euler**][euler] to study and learn new programming languages.
-
-See the solutions here:
+Solutions to [**Project Euler**][euler] using several programming languages.
 
 | Language                                  | Problems |
 | :---------------------------------------- | :------: |
